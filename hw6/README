@@ -1,2 +1,3 @@
 Файл cifar.ipynb - собственная сетка
 86.ipynb - попытка обучить Wide_Res_Net https://github.com/Lasagne/Recipes/tree/master/papers
+cifar2coolversion.ipynb - правильная попытка обучить Wide_Res_Net до 95 ;)
